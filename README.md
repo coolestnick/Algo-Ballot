@@ -1,5 +1,5 @@
 ## Inspiration
-I wanted to build a **Decentralized Voting System using Blockchain** .After read the hackathon readme file I wanted to made a vue app on the algo-testnet . In their People can Vote their Favourite team . we are making this voting app of the state cricket teams.
+I wanted to build a **Decentralized Voting System using Blockchain** .The inspiration behind this project stems from a desire to revolutionize the voting process, particularly in the context of selecting the most popular state cricket team. Traditional voting systems often face challenges such as lack of transparency, susceptibility to manipulation, and centralization of control. By leveraging the power of blockchain technology, we aim to address these issues and create a decentralized voting system that is secure, transparent, immutable, and reliable.
  **Using blockchain, voting process can be made more secure, transparent, immutable, and reliable
 
 ## Advantages
